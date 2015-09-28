@@ -1,0 +1,57 @@
+RAM_READ_DELAY: 1.0000000000000000
+RAM_WRITE_DELAY: 1.0000000000000000
+BUS_CTRL_DELAY: 2.0000000000000000
+BUS_DATA_DELAY: 10.0000000000000000
+BUS_MAX_CONNECT: 8
+BUS_TABLE_SIZE: 512
+SSD_SIZE: 4
+PACKAGE_SIZE: 8
+DIE_SIZE: 2
+PLANE_SIZE: 10
+PLANE_REG_READ_DELAY: 1.0000000000000000
+PLANE_REG_WRITE_DELAY: 1.0000000000000000
+BLOCK_SIZE: 16
+BLOCK_ERASES: 500
+BLOCK_ERASE_DELAY: 20.0000000000000000
+PAGE_READ_DELAY: 4.0000000000000000
+PAGE_WRITE_DELAY: 8.0000000000000000
+OVERPROVISIONING: 5.000000
+SELECTED_GC_POLICY: 0
+------------------------------------------------------------
+Writing LBA 35
+Translating LBA 35
+write: LBA 35 mapped to PBA (0, 0, 0, 2, 3)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 0)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 1)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 2)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 3)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 4)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 5)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 6)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 7)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 8)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 9)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 10)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 11)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 12)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 13)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 14)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 15)
+Translating LBA 35
+write: LBA 35 mapped to PBA (3, 6, 0, 8, 0)
